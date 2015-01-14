@@ -19,7 +19,7 @@ void setup() {
 
 void draw(){
   //clear the background and set the fill color
-  background(100, 0, 0);
+  background(0, 0, 250);
   fill(255, 100, 0);
   stroke(0);
   //draw the circle in its current position
